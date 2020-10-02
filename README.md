@@ -2,6 +2,8 @@
 
 ## AutoCorrect - cats
 
+***
+
 ## DNA mini-Projekat
 
 Data su dva direktorija gdje jedan sadrži sekvence slova, tj. niz slova kao jedan veliki string a drugi sadrži imena određenih osoba, te brojeve ponavljanja datih riječi u prvom redu.
